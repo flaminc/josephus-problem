@@ -1,0 +1,16 @@
+
+# sbt
+/project/project
+/project/target
+/target
+
+# IntelliJ IDEA project config
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# Windows
+Thumbs.db
+# Mac OS
+.DS_Store
